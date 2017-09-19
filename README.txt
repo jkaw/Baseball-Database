@@ -1,3 +1,10 @@
+Relational Baseball Database
+
+This is for CS 150 - Databases
+
+Included are files that will allow you to create the database and fill it with thousands of fictional data. There is also PHP code for a website to interact with the database.
+
+
 createschema.sql - an sql file that creates all my tables.
 
 dropschema.sql - an sql file that drops my tables from create schema.sql
